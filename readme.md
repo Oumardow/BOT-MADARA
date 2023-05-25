@@ -20,9 +20,6 @@
 
     <br>
 
-<a href='https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/afx-abu/beta-abu:latest&env[ANTI_LINK]&env[ANTILINK_ACTION]=false&env[AUDIO_DATA]=BOT-MADARA ; MADARA ;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg&env[BOT_INFO]=𝗕𝗢𝗧-𝗠𝗔𝗗𝗔𝗥𝗔;~Jasil;Copyright by 𝗠𝗔𝗗𝗔𝗥𝗔;+22372268134;™𝗕𝗢𝗧-𝗠𝗔𝗗𝗔𝗥𝗔;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg&env[GOODBYE_MSG]=bye bye ✅&env[HANDLERS]=.,&env[MODE]=public&env[RMBG_KEY]&env[SESSION_ID]&env[STICKER_DATA]=𝗕𝗢𝗧-𝗠𝗔𝗗𝗔𝗥𝗔
-
-&env[SUDO]=917025994178&env[KOYEB_NAME]=𝗠𝗔𝗗𝗔𝗥𝗔-Jsl' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
 
 ***
 
